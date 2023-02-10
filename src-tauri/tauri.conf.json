@@ -43,7 +43,7 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "com.tauri.dev",
+      "identifier": "nl.pggm.team7",
       "longDescription": "",
       "macOS": {
         "entitlements": null,

@@ -1,5 +1,5 @@
+import "p-elements-core/dist/p-elements-core-modern.js";
 import QRCodeStyling, {QRCode, Options} from "qr-code-styling";
-
 import { save } from '@tauri-apps/api/dialog';
 import { writeBinaryFile } from '@tauri-apps/api/fs';
 
